@@ -5,7 +5,7 @@ module.exports = {
     title: 'Rocco Santini',
     description:
       'Rocco Santini is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: '', // No trailing slash allowed!
+    siteUrl: 'https://ronda.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
